@@ -1,4 +1,3 @@
-# firdaouss-fouzi
 
 
 # Bonjour, je suis Firdaouss 👋
