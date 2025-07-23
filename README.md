@@ -21,4 +21,4 @@
 - 📬 Détection de spam par NLP
 - 🎶 Classification musicale avec ML
 
-📫 Contact : [fouzifirdaouss2@gmail.com](mailto:fouzifirdaouss2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/firdaouss-fouzi)
+📫 Contact : [fouzifirdaouss2@gmail.com](mailto:fouzifirdaouss2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/firdaouss-fouzi-6746a7257/)
